@@ -1,0 +1,17 @@
+C:\Users\Willi\OneDrive\Skrivbord\CyberSecurity\C#\PaintProject\PaintProject\bin\Debug\net6.0-windows\PaintProject.exe
+C:\Users\Willi\OneDrive\Skrivbord\CyberSecurity\C#\PaintProject\PaintProject\bin\Debug\net6.0-windows\PaintProject.deps.json
+C:\Users\Willi\OneDrive\Skrivbord\CyberSecurity\C#\PaintProject\PaintProject\bin\Debug\net6.0-windows\PaintProject.runtimeconfig.json
+C:\Users\Willi\OneDrive\Skrivbord\CyberSecurity\C#\PaintProject\PaintProject\bin\Debug\net6.0-windows\PaintProject.dll
+C:\Users\Willi\OneDrive\Skrivbord\CyberSecurity\C#\PaintProject\PaintProject\bin\Debug\net6.0-windows\PaintProject.pdb
+C:\Users\Willi\OneDrive\Skrivbord\CyberSecurity\C#\PaintProject\PaintProject\obj\Debug\net6.0-windows\PaintProject.csproj.AssemblyReference.cache
+C:\Users\Willi\OneDrive\Skrivbord\CyberSecurity\C#\PaintProject\PaintProject\obj\Debug\net6.0-windows\PaintProject.Form1.resources
+C:\Users\Willi\OneDrive\Skrivbord\CyberSecurity\C#\PaintProject\PaintProject\obj\Debug\net6.0-windows\PaintProject.csproj.GenerateResource.cache
+C:\Users\Willi\OneDrive\Skrivbord\CyberSecurity\C#\PaintProject\PaintProject\obj\Debug\net6.0-windows\PaintProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willi\OneDrive\Skrivbord\CyberSecurity\C#\PaintProject\PaintProject\obj\Debug\net6.0-windows\PaintProject.AssemblyInfoInputs.cache
+C:\Users\Willi\OneDrive\Skrivbord\CyberSecurity\C#\PaintProject\PaintProject\obj\Debug\net6.0-windows\PaintProject.AssemblyInfo.cs
+C:\Users\Willi\OneDrive\Skrivbord\CyberSecurity\C#\PaintProject\PaintProject\obj\Debug\net6.0-windows\PaintProject.csproj.CoreCompileInputs.cache
+C:\Users\Willi\OneDrive\Skrivbord\CyberSecurity\C#\PaintProject\PaintProject\obj\Debug\net6.0-windows\PaintProject.dll
+C:\Users\Willi\OneDrive\Skrivbord\CyberSecurity\C#\PaintProject\PaintProject\obj\Debug\net6.0-windows\refint\PaintProject.dll
+C:\Users\Willi\OneDrive\Skrivbord\CyberSecurity\C#\PaintProject\PaintProject\obj\Debug\net6.0-windows\PaintProject.pdb
+C:\Users\Willi\OneDrive\Skrivbord\CyberSecurity\C#\PaintProject\PaintProject\obj\Debug\net6.0-windows\PaintProject.genruntimeconfig.cache
+C:\Users\Willi\OneDrive\Skrivbord\CyberSecurity\C#\PaintProject\PaintProject\obj\Debug\net6.0-windows\ref\PaintProject.dll
